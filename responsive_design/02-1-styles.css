@@ -180,7 +180,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     clip: rect(1px, 1px, 1px, 1px);
     white-space: nowrap;
   }
-  img{
+  main img{
     height: auto;
     width: 100%;
   }  
